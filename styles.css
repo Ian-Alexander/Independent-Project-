@@ -10,3 +10,15 @@
 .float{
   float:right;
 }
+
+body{
+  background-color: #aae4ff;
+
+}
+.orange{
+  color:#ff8300;
+}
+
+h1{
+  font-size: 50px
+}
